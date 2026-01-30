@@ -19,3 +19,12 @@ The repository is organize following the course schedule, with each folder corre
 - **week04/**
   - Assignment 1: Buidling a deep neural network step by step
   - Assignment 2: Deep nerual network application
+
+# How to Run the notebooks
+
+### Prerequisites
+
+- Python 3.x
+- Numpy
+- Matplotlib
+- 
