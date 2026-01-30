@@ -27,4 +27,3 @@ The repository is organize following the course schedule, with each folder corre
 - Python 3.x
 - Numpy
 - Matplotlib
-- 
